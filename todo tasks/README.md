@@ -9,6 +9,10 @@ All tasks are saved in a **JSON file**.
 🔗 **Project Link:**  
 [To Do Tasks](https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks)
 
+or
+
+https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks
+
 ---
 
 ## ✨ **Features**
@@ -159,6 +163,7 @@ You can add this if you plan to upgrade later:
 * Add unit tests
 
 ---
+
 
 
 
