@@ -6,7 +6,8 @@ A simple command-line task management application built using Python.
 You can **add, delete, update, list, and mark tasks** with statuses like *to-do*, *in-progress*, and *done*.
 All tasks are saved in a **JSON file**.
 
-URL:https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks
+🔗 **Project Link:**  
+[To Do Tasks][https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks]
 
 ---
 
@@ -158,6 +159,7 @@ You can add this if you plan to upgrade later:
 * Add unit tests
 
 ---
+
 
 
 
