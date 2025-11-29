@@ -2,9 +2,7 @@ This repo contains projects from beginner to advanced
 
 --
 Access To-Do Tasks project [click here](https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks)
-or copy the link
-https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks
 
-inspired from
+Thanks to
 
 https://roadmap.sh/projects/task-tracker
