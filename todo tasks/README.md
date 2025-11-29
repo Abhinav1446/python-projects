@@ -7,7 +7,7 @@ You can **add, delete, update, list, and mark tasks** with statuses like *to-do*
 All tasks are saved in a **JSON file**.
 
 🔗 **Project Link:**  
-[To Do Tasks][https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks]
+[To Do Tasks](https://github.com/Abhinav1446/python-projects/tree/main/todo%20tasks)
 
 ---
 
@@ -159,6 +159,7 @@ You can add this if you plan to upgrade later:
 * Add unit tests
 
 ---
+
 
 
 
