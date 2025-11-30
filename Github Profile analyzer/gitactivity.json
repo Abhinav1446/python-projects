@@ -1,0 +1,1906 @@
+[
+    {
+        "id": "6323174530",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 968741867,
+            "name": "kamranahmedse/reminder",
+            "url": "https://api.github.com/repos/kamranahmedse/reminder"
+        },
+        "payload": {
+            "repository_id": 968741867,
+            "push_id": 28616954135,
+            "ref": "refs/heads/master",
+            "head": "6886d09247f28275f568ecbeb7742b2932d66c29",
+            "before": "042ccb62de263e0acb2c3cf3350fad2637ed19ae"
+        },
+        "public": true,
+        "created_at": "2025-11-28T15:55:18Z"
+    },
+    {
+        "id": "4975885540",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 1106077997,
+            "name": "kamranahmedse/highlight",
+            "url": "https://api.github.com/repos/kamranahmedse/highlight"
+        },
+        "payload": {
+            "action": "forked",
+            "forkee": {
+                "id": 1106077997,
+                "node_id": "R_kgDOQe1pLQ",
+                "name": "highlight",
+                "full_name": "kamranahmedse/highlight",
+                "private": false,
+                "owner": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "html_url": "https://github.com/kamranahmedse/highlight",
+                "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
+                "fork": true,
+                "url": "https://api.github.com/repos/kamranahmedse/highlight",
+                "forks_url": "https://api.github.com/repos/kamranahmedse/highlight/forks",
+                "keys_url": "https://api.github.com/repos/kamranahmedse/highlight/keys{/key_id}",
+                "collaborators_url": "https://api.github.com/repos/kamranahmedse/highlight/collaborators{/collaborator}",
+                "teams_url": "https://api.github.com/repos/kamranahmedse/highlight/teams",
+                "hooks_url": "https://api.github.com/repos/kamranahmedse/highlight/hooks",
+                "issue_events_url": "https://api.github.com/repos/kamranahmedse/highlight/issues/events{/number}",
+                "events_url": "https://api.github.com/repos/kamranahmedse/highlight/events",
+                "assignees_url": "https://api.github.com/repos/kamranahmedse/highlight/assignees{/user}",
+                "branches_url": "https://api.github.com/repos/kamranahmedse/highlight/branches{/branch}",
+                "tags_url": "https://api.github.com/repos/kamranahmedse/highlight/tags",
+                "blobs_url": "https://api.github.com/repos/kamranahmedse/highlight/git/blobs{/sha}",
+                "git_tags_url": "https://api.github.com/repos/kamranahmedse/highlight/git/tags{/sha}",
+                "git_refs_url": "https://api.github.com/repos/kamranahmedse/highlight/git/refs{/sha}",
+                "trees_url": "https://api.github.com/repos/kamranahmedse/highlight/git/trees{/sha}",
+                "statuses_url": "https://api.github.com/repos/kamranahmedse/highlight/statuses/{sha}",
+                "languages_url": "https://api.github.com/repos/kamranahmedse/highlight/languages",
+                "stargazers_url": "https://api.github.com/repos/kamranahmedse/highlight/stargazers",
+                "contributors_url": "https://api.github.com/repos/kamranahmedse/highlight/contributors",
+                "subscribers_url": "https://api.github.com/repos/kamranahmedse/highlight/subscribers",
+                "subscription_url": "https://api.github.com/repos/kamranahmedse/highlight/subscription",
+                "commits_url": "https://api.github.com/repos/kamranahmedse/highlight/commits{/sha}",
+                "git_commits_url": "https://api.github.com/repos/kamranahmedse/highlight/git/commits{/sha}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/highlight/comments{/number}",
+                "issue_comment_url": "https://api.github.com/repos/kamranahmedse/highlight/issues/comments{/number}",
+                "contents_url": "https://api.github.com/repos/kamranahmedse/highlight/contents/{+path}",
+                "compare_url": "https://api.github.com/repos/kamranahmedse/highlight/compare/{base}...{head}",
+                "merges_url": "https://api.github.com/repos/kamranahmedse/highlight/merges",
+                "archive_url": "https://api.github.com/repos/kamranahmedse/highlight/{archive_format}{/ref}",
+                "downloads_url": "https://api.github.com/repos/kamranahmedse/highlight/downloads",
+                "issues_url": "https://api.github.com/repos/kamranahmedse/highlight/issues{/number}",
+                "pulls_url": "https://api.github.com/repos/kamranahmedse/highlight/pulls{/number}",
+                "milestones_url": "https://api.github.com/repos/kamranahmedse/highlight/milestones{/number}",
+                "notifications_url": "https://api.github.com/repos/kamranahmedse/highlight/notifications{?since,all,participating}",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/highlight/labels{/name}",
+                "releases_url": "https://api.github.com/repos/kamranahmedse/highlight/releases{/id}",
+                "deployments_url": "https://api.github.com/repos/kamranahmedse/highlight/deployments",
+                "created_at": "2025-11-28T15:40:24Z",
+                "updated_at": "2025-11-30T09:33:39Z",
+                "pushed_at": "2025-11-13T22:18:41Z",
+                "git_url": "git://github.com/kamranahmedse/highlight.git",
+                "ssh_url": "git@github.com:kamranahmedse/highlight.git",
+                "clone_url": "https://github.com/kamranahmedse/highlight.git",
+                "svn_url": "https://github.com/kamranahmedse/highlight",
+                "homepage": "https://app.highlight.io",
+                "size": 618932,
+                "stargazers_count": 3,
+                "watchers_count": 3,
+                "language": null,
+                "has_issues": false,
+                "has_projects": true,
+                "has_downloads": true,
+                "has_wiki": true,
+                "has_pages": false,
+                "has_discussions": false,
+                "forks_count": 0,
+                "mirror_url": null,
+                "archived": false,
+                "disabled": false,
+                "open_issues_count": 0,
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "allow_forking": true,
+                "is_template": false,
+                "web_commit_signoff_required": false,
+                "topics": [],
+                "visibility": "public",
+                "forks": 0,
+                "open_issues": 0,
+                "watchers": 3,
+                "default_branch": "main"
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-28T15:40:24Z"
+    },
+    {
+        "id": "4962517071",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/599",
+                "id": 3636646401,
+                "node_id": "I_kwDOB3Av-s7YwtIB",
+                "number": 599,
+                "title": "Highlight Separate Chunks in one Step in the same screen",
+                "user": {
+                    "login": "Umair72Raza",
+                    "id": 144661533,
+                    "node_id": "U_kgDOCJ9cHQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/144661533?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Umair72Raza",
+                    "html_url": "https://github.com/Umair72Raza",
+                    "followers_url": "https://api.github.com/users/Umair72Raza/followers",
+                    "following_url": "https://api.github.com/users/Umair72Raza/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Umair72Raza/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Umair72Raza/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Umair72Raza/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Umair72Raza/orgs",
+                    "repos_url": "https://api.github.com/users/Umair72Raza/repos",
+                    "events_url": "https://api.github.com/users/Umair72Raza/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Umair72Raza/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-11-18T07:52:15Z",
+                "updated_at": "2025-11-27T22:40:45Z",
+                "closed_at": "2025-11-27T22:40:45Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "I have different elements in a single screen that I want to highlight in a single steps in the tour. Now these elements do not share a single parent element (If they did I would have highlighted the whole parent element). How can I do highlight separate elements in a single screen?",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "not_planned"
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-27T22:40:47Z"
+    },
+    {
+        "id": "4962517057",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/599",
+                "id": 3636646401,
+                "node_id": "I_kwDOB3Av-s7YwtIB",
+                "number": 599,
+                "title": "Highlight Separate Chunks in one Step in the same screen",
+                "user": {
+                    "login": "Umair72Raza",
+                    "id": 144661533,
+                    "node_id": "U_kgDOCJ9cHQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/144661533?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Umair72Raza",
+                    "html_url": "https://github.com/Umair72Raza",
+                    "followers_url": "https://api.github.com/users/Umair72Raza/followers",
+                    "following_url": "https://api.github.com/users/Umair72Raza/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Umair72Raza/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Umair72Raza/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Umair72Raza/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Umair72Raza/orgs",
+                    "repos_url": "https://api.github.com/users/Umair72Raza/repos",
+                    "events_url": "https://api.github.com/users/Umair72Raza/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Umair72Raza/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-11-18T07:52:15Z",
+                "updated_at": "2025-11-27T22:40:45Z",
+                "closed_at": "2025-11-27T22:40:45Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "I have different elements in a single screen that I want to highlight in a single steps in the tour. Now these elements do not share a single parent element (If they did I would have highlighted the whole parent element). How can I do highlight separate elements in a single screen?",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "not_planned"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3587440229",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/599#issuecomment-3587440229",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/599",
+                "id": 3587440229,
+                "node_id": "IC_kwDOB3Av-s7V0_5l",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-27T22:40:45Z",
+                "updated_at": "2025-11-27T22:40:45Z",
+                "body": "This is not currently possible and there are no plans to add this.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3587440229/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-27T22:40:45Z"
+    },
+    {
+        "id": "6303931202",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28597937491,
+            "ref": "refs/heads/master",
+            "head": "ec19f63eecab95db7bfb80dd156d0c0f6281a57d",
+            "before": "229d85c661e99c98aba9097b95a2bb4691e45f2b"
+        },
+        "public": true,
+        "created_at": "2025-11-27T21:59:33Z"
+    },
+    {
+        "id": "4938420165",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/592",
+                "id": 3415276491,
+                "node_id": "I_kwDOB3Av-s7LkPvL",
+                "number": 592,
+                "title": "Popover direction issue",
+                "user": {
+                    "login": "MaanasSehgal",
+                    "id": 136835947,
+                    "node_id": "U_kgDOCCfzaw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/136835947?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/MaanasSehgal",
+                    "html_url": "https://github.com/MaanasSehgal",
+                    "followers_url": "https://api.github.com/users/MaanasSehgal/followers",
+                    "following_url": "https://api.github.com/users/MaanasSehgal/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/MaanasSehgal/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/MaanasSehgal/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/MaanasSehgal/subscriptions",
+                    "organizations_url": "https://api.github.com/users/MaanasSehgal/orgs",
+                    "repos_url": "https://api.github.com/users/MaanasSehgal/repos",
+                    "events_url": "https://api.github.com/users/MaanasSehgal/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/MaanasSehgal/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 3,
+                "created_at": "2025-09-14T16:50:24Z",
+                "updated_at": "2025-11-27T01:23:06Z",
+                "closed_at": "2025-11-26T21:23:17Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hi there,\nI was trying to implement a tour and facing an issue. The placement is fine, the issue is the blue border box. When I change or come to a step, the popup part always comes flying from top. Ideally if I were having 3 elements at flex row and wanted to show them one by one, the popup should be moving sideways instead.\n\nI read the docs but couldn't find anything relevant. Please help\n<img width=\"497\" height=\"612\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/647f398d-da40-4b56-8d41-c0f75e307ca0\" />\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "not_planned"
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T21:23:18Z"
+    },
+    {
+        "id": "4938420125",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/592",
+                "id": 3415276491,
+                "node_id": "I_kwDOB3Av-s7LkPvL",
+                "number": 592,
+                "title": "Popover direction issue",
+                "user": {
+                    "login": "MaanasSehgal",
+                    "id": 136835947,
+                    "node_id": "U_kgDOCCfzaw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/136835947?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/MaanasSehgal",
+                    "html_url": "https://github.com/MaanasSehgal",
+                    "followers_url": "https://api.github.com/users/MaanasSehgal/followers",
+                    "following_url": "https://api.github.com/users/MaanasSehgal/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/MaanasSehgal/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/MaanasSehgal/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/MaanasSehgal/subscriptions",
+                    "organizations_url": "https://api.github.com/users/MaanasSehgal/orgs",
+                    "repos_url": "https://api.github.com/users/MaanasSehgal/repos",
+                    "events_url": "https://api.github.com/users/MaanasSehgal/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/MaanasSehgal/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 3,
+                "created_at": "2025-09-14T16:50:24Z",
+                "updated_at": "2025-11-27T01:23:06Z",
+                "closed_at": "2025-11-26T21:23:17Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Hi there,\nI was trying to implement a tour and facing an issue. The placement is fine, the issue is the blue border box. When I change or come to a step, the popup part always comes flying from top. Ideally if I were having 3 elements at flex row and wanted to show them one by one, the popup should be moving sideways instead.\n\nI read the docs but couldn't find anything relevant. Please help\n<img width=\"497\" height=\"612\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/647f398d-da40-4b56-8d41-c0f75e307ca0\" />\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "not_planned"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3583255085",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/592#issuecomment-3583255085",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/592",
+                "id": 3583255085,
+                "node_id": "IC_kwDOB3Av-s7VlCIt",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-26T21:23:17Z",
+                "updated_at": "2025-11-26T21:23:17Z",
+                "body": "I am unable to reproduce this. Please submit a codesandbox link with the reproducing example.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3583255085/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T21:23:17Z"
+    },
+    {
+        "id": "4938397265",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 596,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/pulls/596",
+                "id": 2914745375,
+                "number": 596,
+                "head": {
+                    "ref": "feat/overlay-prevent-dismiss",
+                    "sha": "3e45d439990e10421c9c23d02e665f49d9d216e4",
+                    "repo": {
+                        "id": 1076329259,
+                        "url": "https://api.github.com/repos/krxthx/driver.js",
+                        "name": "driver.js"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "e5baef1274b7e2a2061edf5eb63e41d9206ec603",
+                    "repo": {
+                        "id": 124792826,
+                        "url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                        "name": "driver.js"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-10-14T19:13:24Z"
+    },
+    {
+        "id": "4938391997",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/595",
+                "id": 3515141224,
+                "node_id": "I_kwDOB3Av-s7RhMxo",
+                "number": 595,
+                "title": "Allow Overlay Freezing/Prevent Dismiss on Overlay click",
+                "user": {
+                    "login": "krxthx",
+                    "id": 76687631,
+                    "node_id": "MDQ6VXNlcjc2Njg3NjMx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/76687631?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/krxthx",
+                    "html_url": "https://github.com/krxthx",
+                    "followers_url": "https://api.github.com/users/krxthx/followers",
+                    "following_url": "https://api.github.com/users/krxthx/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/krxthx/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/krxthx/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/krxthx/subscriptions",
+                    "organizations_url": "https://api.github.com/users/krxthx/orgs",
+                    "repos_url": "https://api.github.com/users/krxthx/repos",
+                    "events_url": "https://api.github.com/users/krxthx/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/krxthx/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2025-10-14T19:11:43Z",
+                "updated_at": "2025-11-26T21:21:20Z",
+                "closed_at": "2025-11-26T21:21:20Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Currently the overlay click only supports `nextStep` and `close`. I would like a capability of preventing the dismissal of the overlay on click.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3583250000",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/595#issuecomment-3583250000",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595",
+                "id": 3583250000,
+                "node_id": "IC_kwDOB3Av-s7VlA5Q",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-26T21:21:20Z",
+                "updated_at": "2025-11-26T21:21:20Z",
+                "body": "Resolved in 1.4.0\nYou can now achieve this by passing a hook to `overlayClickBehavior`",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/comments/3583250000/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T21:21:20Z"
+    },
+    {
+        "id": "4938391908",
+        "type": "IssuesEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 124792826,
+            "name": "kamranahmedse/driver.js",
+            "url": "https://api.github.com/repos/kamranahmedse/driver.js"
+        },
+        "payload": {
+            "action": "closed",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/driver.js",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/events",
+                "html_url": "https://github.com/kamranahmedse/driver.js/issues/595",
+                "id": 3515141224,
+                "node_id": "I_kwDOB3Av-s7RhMxo",
+                "number": 595,
+                "title": "Allow Overlay Freezing/Prevent Dismiss on Overlay click",
+                "user": {
+                    "login": "krxthx",
+                    "id": 76687631,
+                    "node_id": "MDQ6VXNlcjc2Njg3NjMx",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/76687631?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/krxthx",
+                    "html_url": "https://github.com/krxthx",
+                    "followers_url": "https://api.github.com/users/krxthx/followers",
+                    "following_url": "https://api.github.com/users/krxthx/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/krxthx/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/krxthx/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/krxthx/subscriptions",
+                    "organizations_url": "https://api.github.com/users/krxthx/orgs",
+                    "repos_url": "https://api.github.com/users/krxthx/repos",
+                    "events_url": "https://api.github.com/users/krxthx/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/krxthx/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2025-10-14T19:11:43Z",
+                "updated_at": "2025-11-26T21:21:20Z",
+                "closed_at": "2025-11-26T21:21:20Z",
+                "active_lock_reason": null,
+                "sub_issues_summary": {
+                    "total": 0,
+                    "completed": 0,
+                    "percent_completed": 0
+                },
+                "issue_dependencies_summary": {
+                    "blocked_by": 0,
+                    "total_blocked_by": 0,
+                    "blocking": 0,
+                    "total_blocking": 0
+                },
+                "body": "Currently the overlay click only supports `nextStep` and `close`. I would like a capability of preventing the dismissal of the overlay on click.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/driver.js/issues/595/timeline",
+                "performed_via_github_app": null,
+                "state_reason": "completed"
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T21:21:21Z"
+    },
+    {
+        "id": "6266946993",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28560953392,
+            "ref": "refs/heads/master",
+            "head": "26c264a4d16bfe708c8240072065a6a1fe25d7db",
+            "before": "e043a3346148959db682419c914603e2799a8f15"
+        },
+        "public": true,
+        "created_at": "2025-11-26T15:35:28Z"
+    },
+    {
+        "id": "4931864815",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "reopened",
+            "number": 9289,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9289",
+                "id": 2944754753,
+                "number": 9289,
+                "head": {
+                    "ref": "patch-7",
+                    "sha": "643eab7584b07ebe16fa00239b926334ac2d549d",
+                    "repo": {
+                        "id": 1062234680,
+                        "url": "https://api.github.com/repos/Dasher83/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "e043a3346148959db682419c914603e2799a8f15",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T15:35:18Z"
+    },
+    {
+        "id": "4931839638",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9289,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9289",
+                "id": 2944754753,
+                "number": 9289,
+                "head": {
+                    "ref": "patch-7",
+                    "sha": "643eab7584b07ebe16fa00239b926334ac2d549d",
+                    "repo": {
+                        "id": 1062234680,
+                        "url": "https://api.github.com/repos/Dasher83/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "e043a3346148959db682419c914603e2799a8f15",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-25T09:20:55Z"
+    },
+    {
+        "id": "6266720809",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28560727808,
+            "ref": "refs/heads/master",
+            "head": "e043a3346148959db682419c914603e2799a8f15",
+            "before": "cd8c467a9b701ada98b6b4d339c94994d94c4a9e"
+        },
+        "public": true,
+        "created_at": "2025-11-26T15:27:28Z"
+    },
+    {
+        "id": "6264470709",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28558466448,
+            "ref": "refs/heads/master",
+            "head": "cd8c467a9b701ada98b6b4d339c94994d94c4a9e",
+            "before": "6a4787c5fe25ec607986e2328038ee4152dd61ee"
+        },
+        "public": true,
+        "created_at": "2025-11-26T14:09:33Z"
+    },
+    {
+        "id": "6264450102",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28558446001,
+            "ref": "refs/heads/master",
+            "head": "6a4787c5fe25ec607986e2328038ee4152dd61ee",
+            "before": "e9ee27bf58ef329def64aa7347fe5a9e4848d600"
+        },
+        "public": true,
+        "created_at": "2025-11-26T14:08:48Z"
+    },
+    {
+        "id": "6264264855",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28558262939,
+            "ref": "refs/heads/master",
+            "head": "e9ee27bf58ef329def64aa7347fe5a9e4848d600",
+            "before": "b544d56e09ac49353fc06e619cea2616f50dc193"
+        },
+        "public": true,
+        "created_at": "2025-11-26T14:02:15Z"
+    },
+    {
+        "id": "4928250705",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313/events",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9313",
+                "id": 3573644575,
+                "node_id": "PR_kwDOBRIuNs6ww-KV",
+                "number": 9313,
+                "title": "NPM course. From fundamentlas to mastery",
+                "user": {
+                    "login": "Leonardo-Garzon-1995",
+                    "id": 218224662,
+                    "node_id": "U_kgDODQHYFg",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/218224662?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Leonardo-Garzon-1995",
+                    "html_url": "https://github.com/Leonardo-Garzon-1995",
+                    "followers_url": "https://api.github.com/users/Leonardo-Garzon-1995/followers",
+                    "following_url": "https://api.github.com/users/Leonardo-Garzon-1995/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Leonardo-Garzon-1995/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Leonardo-Garzon-1995/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Leonardo-Garzon-1995/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Leonardo-Garzon-1995/orgs",
+                    "repos_url": "https://api.github.com/users/Leonardo-Garzon-1995/repos",
+                    "events_url": "https://api.github.com/users/Leonardo-Garzon-1995/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Leonardo-Garzon-1995/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-10-31T07:05:57Z",
+                "updated_at": "2025-11-26T13:05:38Z",
+                "closed_at": "2025-11-26T13:05:37Z",
+                "active_lock_reason": null,
+                "draft": false,
+                "pull_request": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9313",
+                    "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9313",
+                    "diff_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9313.diff",
+                    "patch_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9313.patch",
+                    "merged_at": null
+                },
+                "body": "Hi, \r\n\r\nI have been working on this course to master node.js' NPM. It has beginner-friendly structure. It has modules (content to be learnt), hands on exercises for each module (practical guides to test what you learn in each module) and examples (a section with different examples to experiment and keep learning). It is also open source, so people can contribute their own code or improve the existing content of the course.\r\n\r\n# Table of contents\r\n\r\n### Part 1: Foundations\r\n- **Module 1: NPM Fundamentals** - Understanding NPM, installation, and configuration\r\n- **Module 2: Package.json Deep Dive** - Mastering the heart of every Node project\r\n- **Module 3: Installing Packages** - Dependencies, dev dependencies, and global packages\r\n- **Module 4: Semantic Versioning** - Understanding version numbers and ranges\r\n- **Module 5: Package-lock.json** - Ensuring deterministic installations\r\n\r\n### Part 2: Daily Development\r\n- **Module 6: NPM Scripts** - Automating tasks and workflows\r\n- **Module 7: Managing Packages** - Updating, removing, and viewing packages\r\n- **Module 8: NPM Cache** - Understanding and managing the cache\r\n- **Module 9: Security & Auditing** - Keeping your projects secure\r\n\r\n### Part 3: Advanced Topics\r\n- **Module 10: Publishing Packages** - Share your code with the world\r\n- **Module 11: Advanced NPM Features** - Workspaces, npx, and npm link\r\n- **Module 12: Troubleshooting & Best Practices** - Common issues and professional workflows\r\n\r\n### Part 4: Real-World Application\r\n- **Module 13: Real-World Project** - Building a complete REST API\r\n- **Module 14: CI/CD with NPM** - Integrating NPM into your deployment pipeline\r\n- **Module 15: Final Project** - Create and publish your own package",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581242508",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9313#issuecomment-3581242508",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9313",
+                "id": 3581242508,
+                "node_id": "IC_kwDOBRIuNs7VdWyM",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-26T13:05:37Z",
+                "updated_at": "2025-11-26T13:05:37Z",
+                "body": "Thank you for the PR but self promotion is not allowed.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581242508/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T13:05:37Z"
+    },
+    {
+        "id": "4928250287",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9313,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9313",
+                "id": 2965627541,
+                "number": 9313,
+                "head": {
+                    "ref": "resource/course",
+                    "sha": "99bb82ae631137d59f5d700f0f46fab355febcea",
+                    "repo": {
+                        "id": 1086947515,
+                        "url": "https://api.github.com/repos/Leonardo-Garzon-1995/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "8246ff84ae59396a01a2eaf5461c64814cadbcdc",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-24T10:28:16Z"
+    },
+    {
+        "id": "4928178765",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9336,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9336",
+                "id": 2980577835,
+                "number": 9336,
+                "head": {
+                    "ref": "feature/text-to-speech-accessibility",
+                    "sha": "3821c813cfae4fd603b714c0e114838d0b4bc9a6",
+                    "repo": {
+                        "id": 1090216590,
+                        "url": "https://api.github.com/repos/SamMintah/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "8246ff84ae59396a01a2eaf5461c64814cadbcdc",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-24T10:28:16Z"
+    },
+    {
+        "id": "4928125541",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400/events",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9400",
+                "id": 3660107210,
+                "node_id": "PR_kwDOBRIuNs61Q2os",
+                "number": 9400,
+                "title": "Add Hindi translation for readme (readme.hi.md)",
+                "user": {
+                    "login": "parth-117",
+                    "id": 227001085,
+                    "node_id": "U_kgDODYfC_Q",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/227001085?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/parth-117",
+                    "html_url": "https://github.com/parth-117",
+                    "followers_url": "https://api.github.com/users/parth-117/followers",
+                    "following_url": "https://api.github.com/users/parth-117/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/parth-117/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/parth-117/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/parth-117/subscriptions",
+                    "organizations_url": "https://api.github.com/users/parth-117/orgs",
+                    "repos_url": "https://api.github.com/users/parth-117/repos",
+                    "events_url": "https://api.github.com/users/parth-117/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/parth-117/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-11-24T18:44:35Z",
+                "updated_at": "2025-11-26T13:00:05Z",
+                "closed_at": "2025-11-26T12:59:55Z",
+                "active_lock_reason": null,
+                "draft": false,
+                "pull_request": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9400",
+                    "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9400",
+                    "diff_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9400.diff",
+                    "patch_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9400.patch",
+                    "merged_at": null
+                },
+                "body": "This PR adds a Hindi translation for the main README file.\r\n- Added README.hi.md\r\n- Kept original formatting and links\r\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581219776",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9400#issuecomment-3581219776",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9400",
+                "id": 3581219776,
+                "node_id": "IC_kwDOBRIuNs7VdRPA",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-26T13:00:05Z",
+                "updated_at": "2025-11-26T13:00:05Z",
+                "body": "Thanks but no, there is no need for that.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581219776/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T13:00:05Z"
+    },
+    {
+        "id": "4928121585",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9400,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9400",
+                "id": 3041094188,
+                "number": 9400,
+                "head": {
+                    "ref": "master",
+                    "sha": "ba76e4afa937697001dfb7b41ff384c3056fc0bc",
+                    "repo": {
+                        "id": 1103340533,
+                        "url": "https://api.github.com/repos/parth-117/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "b544d56e09ac49353fc06e619cea2616f50dc193",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T10:35:45Z"
+    },
+    {
+        "id": "4928115308",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9410,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9410",
+                "id": 3043665559,
+                "number": 9410,
+                "head": {
+                    "ref": "feat/update-contribution-guide",
+                    "sha": "aa48cc808aa2cbe9f380e66722d74d58b393804d",
+                    "repo": {
+                        "id": 1103872933,
+                        "url": "https://api.github.com/repos/ArsiyaTasleem90250/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "df5cdf244f630acc5066a9660977654170df633e",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-25T13:15:09Z"
+    },
+    {
+        "id": "4928111793",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411",
+                "repository_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                "labels_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411/labels{/name}",
+                "comments_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411/comments",
+                "events_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411/events",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9411",
+                "id": 3663651598,
+                "node_id": "PR_kwDOBRIuNs61cuYM",
+                "number": 9411,
+                "title": "feat: add new C# developer roadmap",
+                "user": {
+                    "login": "Venkatachla",
+                    "id": 180186779,
+                    "node_id": "U_kgDOCr1umw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/180186779?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Venkatachla",
+                    "html_url": "https://github.com/Venkatachla",
+                    "followers_url": "https://api.github.com/users/Venkatachla/followers",
+                    "following_url": "https://api.github.com/users/Venkatachla/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Venkatachla/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Venkatachla/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Venkatachla/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Venkatachla/orgs",
+                    "repos_url": "https://api.github.com/users/Venkatachla/repos",
+                    "events_url": "https://api.github.com/users/Venkatachla/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Venkatachla/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "labels": [],
+                "state": "closed",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 1,
+                "created_at": "2025-11-25T15:57:20Z",
+                "updated_at": "2025-11-26T12:59:31Z",
+                "closed_at": "2025-11-26T12:59:30Z",
+                "active_lock_reason": null,
+                "draft": false,
+                "pull_request": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9411",
+                    "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9411",
+                    "diff_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9411.diff",
+                    "patch_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9411.patch",
+                    "merged_at": null
+                },
+                "body": "feat: add new C# developer roadmap\r\n\r\n### Summary\r\nThis PR introduces a new **C# Developer Roadmap** to the project, aligned with the existing roadmap structure and formatting standards.\r\n\r\n### Added\r\n- `/src/data/roadmaps/csharp/csharp.json`\r\n- `/src/data/roadmaps/csharp/csharp.md`\r\n- `/src/data/roadmaps/csharp/faqs-csharp.astro`\r\n- `/src/data/roadmaps/csharp/migration-mapping-csharp.json`\r\n\r\n### Notes\r\n- No existing files were modified or removed\r\n- Follows the current folder-based auto-registration system (no index update required)\r\n- Matches structure and conventions used in the Java roadmap\r\n- All content is self-contained and ready for future UI rendering\r\n\r\n### Motivation\r\nC# remains one of the most widely-used languages for backend, cloud, desktop, and game development. Adding this roadmap will benefit developers looking for structured guidance within the .NET ecosystem.\r\n\r\n### Checklist\r\n- [x] Files placed in correct directory\r\n- [x] Naming follows roadmap standards\r\n- [x] No breaking changes introduced\r\n- [x] Content follows neutral and educational tone\r\n\r\n",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "timeline_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411/timeline",
+                "performed_via_github_app": null,
+                "state_reason": null
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581216987",
+                "html_url": "https://github.com/kamranahmedse/developer-roadmap/pull/9411#issuecomment-3581216987",
+                "issue_url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/9411",
+                "id": 3581216987,
+                "node_id": "IC_kwDOBRIuNs7VdQjb",
+                "user": {
+                    "login": "kamranahmedse",
+                    "id": 4921183,
+                    "node_id": "MDQ6VXNlcjQ5MjExODM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/kamranahmedse",
+                    "html_url": "https://github.com/kamranahmedse",
+                    "followers_url": "https://api.github.com/users/kamranahmedse/followers",
+                    "following_url": "https://api.github.com/users/kamranahmedse/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/kamranahmedse/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/kamranahmedse/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/kamranahmedse/subscriptions",
+                    "organizations_url": "https://api.github.com/users/kamranahmedse/orgs",
+                    "repos_url": "https://api.github.com/users/kamranahmedse/repos",
+                    "events_url": "https://api.github.com/users/kamranahmedse/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/kamranahmedse/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "created_at": "2025-11-26T12:59:30Z",
+                "updated_at": "2025-11-26T12:59:30Z",
+                "body": "Thanks for the PR but please take a look at the contribution docs for roadmap submission.",
+                "reactions": {
+                    "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/issues/comments/3581216987/reactions",
+                    "total_count": 0,
+                    "+1": 0,
+                    "-1": 0,
+                    "laugh": 0,
+                    "hooray": 0,
+                    "confused": 0,
+                    "heart": 0,
+                    "rocket": 0,
+                    "eyes": 0
+                },
+                "performed_via_github_app": null
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T12:59:30Z"
+    },
+    {
+        "id": "4928111215",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 9411,
+            "pull_request": {
+                "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap/pulls/9411",
+                "id": 3044206092,
+                "number": 9411,
+                "head": {
+                    "ref": "csharp-roadmap-addition",
+                    "sha": "da9dc4acbe4dc60acd57d2cf89edf133f41db25d",
+                    "repo": {
+                        "id": 1103962641,
+                        "url": "https://api.github.com/repos/Venkatachla/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                },
+                "base": {
+                    "ref": "master",
+                    "sha": "df5cdf244f630acc5066a9660977654170df633e",
+                    "repo": {
+                        "id": 85077558,
+                        "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap",
+                        "name": "developer-roadmap"
+                    }
+                }
+            }
+        },
+        "public": true,
+        "created_at": "2025-11-26T09:00:39Z"
+    },
+    {
+        "id": "4877851261",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 517126881,
+            "name": "lumen-notes/lumen",
+            "url": "https://api.github.com/repos/lumen-notes/lumen"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2025-11-24T15:31:33Z",
+        "org": {
+            "id": 123232703,
+            "login": "lumen-notes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/lumen-notes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/123232703?"
+        }
+    },
+    {
+        "id": "6197331009",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28491486736,
+            "ref": "refs/heads/master",
+            "head": "ff5dc3e5e05586e5aa22b649087a63e028d5550f",
+            "before": "cf2368502acae3573fb63770427b598a016bb1e4"
+        },
+        "public": true,
+        "created_at": "2025-11-24T11:31:53Z"
+    },
+    {
+        "id": "6197168979",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28491317612,
+            "ref": "refs/heads/master",
+            "head": "cf2368502acae3573fb63770427b598a016bb1e4",
+            "before": "f91913ce9d66be932b2a6c04c1fcbbf632745e21"
+        },
+        "public": true,
+        "created_at": "2025-11-24T11:25:02Z"
+    },
+    {
+        "id": "6197163025",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28491311426,
+            "ref": "refs/heads/master",
+            "head": "f91913ce9d66be932b2a6c04c1fcbbf632745e21",
+            "before": "26c071f5a2ccbc9b3e812a079c8e91b83fc53974"
+        },
+        "public": true,
+        "created_at": "2025-11-24T11:24:46Z"
+    },
+    {
+        "id": "6197061462",
+        "type": "PushEvent",
+        "actor": {
+            "id": 4921183,
+            "login": "kamranahmedse",
+            "display_login": "kamranahmedse",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kamranahmedse",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4921183?"
+        },
+        "repo": {
+            "id": 85077558,
+            "name": "kamranahmedse/developer-roadmap",
+            "url": "https://api.github.com/repos/kamranahmedse/developer-roadmap"
+        },
+        "payload": {
+            "repository_id": 85077558,
+            "push_id": 28491206514,
+            "ref": "refs/heads/master",
+            "head": "26c071f5a2ccbc9b3e812a079c8e91b83fc53974",
+            "before": "43360b083b6aa7d83fd07e1532b3af8524ce4cbc"
+        },
+        "public": true,
+        "created_at": "2025-11-24T11:20:37Z"
+    }
+]
