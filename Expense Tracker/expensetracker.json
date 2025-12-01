@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "date": "2025-12-01",
+        "description": "Lunch",
+        "amount": 40.0
+    },
+    {
+        "id": 2,
+        "date": "2025-12-01",
+        "description": "Dinner",
+        "amount": 50.0
+    },
+    {
+        "id": 3,
+        "date": "2025-12-01",
+        "description": "Breeakfast",
+        "amount": 50.0
+    },
+    {
+        "id": 4,
+        "date": "2025-12-01",
+        "description": "Buy Groceries",
+        "amount": 60.0
+    }
+]
