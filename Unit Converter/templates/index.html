@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Unit converter</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container border border-dark rounded">
+        <h1>Unit Converter</h1>
+        <div class="select-measurement mb-4 h4 pb-2">
+
+                <button type="button" class="custom-tab {%if measurement== 'length' %}active-tab{% endif %}"  onclick="window.location='/?type=length'" >
+                    Length</button>
+                <button type="button" class="custom-tab {%if measurement== 'weight' %}active-tab{% endif %}" onclick="window.location='/?type=weight'">
+                    Weight</button>
+                <button type="button" class="custom-tab {%if measurement== 'temp' %}active-tab{% endif %}" onclick="window.location='/?type=temp'">
+                    Temperature</button>
+
+        </div>
+
+        <div class="info mt-4">
+
+        {% if measurement == 'length' %}
+             {% if not show_result %}
+                <h3>Length Converter</h3>
+                <form action="/convert_length" method="POST">
+                    <label for="length">Enter Length to convert</label><br>
+                    <input type="number" name="length" id="length" placeholder="Enter length"><br><br>
+
+                    <label for="unit_from">Unit to Convert From</label><br>
+                    <input type="text" name="unit_from" id="unit_from" placeholder="e.g. m, mm, cm, km, yd, ft"><br><br>
+
+                    <label for="unit_to">Unit to Convert To</label><br>
+                    <input type="text" name="unit_to" id="unit_to" placeholder="e.g. m, cm, mm, km, yd, ft"><br><br>
+
+                    <button type="submit" class=" convert btn btn-primary" id="convert_btn">Convert</button>
+                </form>
+
+            {% endif %}
+
+
+
+            <!-- Show result -->
+            {% if show_result %}
+            <h3>Result of your calculation</h3>
+                <p class="result-text text-success mt-3">
+                    {{value}} {{unit_from}} = {{ result }} {{ unit_to }}
+                </p>
+
+            <button type="button" class="btn btn-primary" onclick="window.location='/?type=length'">
+                Reset
+            </button>
+            {% endif %}
+
+            {% if error %}
+                <p class="text-danger mt-3">{{ error }}</p>
+            {% endif %}
+
+
+
+
+        {% elif measurement == 'weight' %}
+            {% if not show_result %}
+             <h3>Weight Converter</h3>
+                <form action="/convert_weight" method="POST">
+                    <label for="weight">Enter Weight to convert</label><br>
+                    <input type="number" name="weight" id="weight" placeholder="Enter Weight"><br><br>
+
+                    <label for="unit_from">Unit to Convert From</label><br>
+                    <input type="text" name="unit_from" id="unit_from" placeholder="e.g. kg, g, mg, ou, pd"><br><br>
+
+                    <label for="unit_to">Unit to Convert To</label><br>
+                    <input type="text" name="unit_to" id="unit_to" placeholder="e.g kg, g, mg, ou, pd"><br><br>
+
+                    <button type="submit" class="btn btn-primary" id="convert_btn" >Convert</button>
+                </form>
+
+            {% endif %}
+
+
+
+            <!-- Show result -->
+             {% if show_result %}
+            <h3>Result of your calculation</h3>
+                <p class="result-text text-success mt-3">
+                    {{value}} {{unit_from}} = {{ result }} {{ unit_to }}
+                </p>
+
+                <button type="button" class="btn btn-primary" onclick="window.location='/?type=weight'">
+                Reset
+                </button>
+            {% endif %}
+
+            {% if error %}
+                <p class="text-danger mt-3">{{ error }}</p>
+            {% endif %}
+
+
+
+
+
+
+        {% elif measurement == 'temp' %}
+            {% if not show_result %}
+            <h3>Temperature Converter</h3>
+                <form action="/convert_temp" method="POST">
+                    <label for="temp">Enter Temperature to convert</label><br>
+                    <input type="number" name="temp" id="temp" placeholder="Enter Temperature"><br><br>
+
+                    <label for="unit_from">Unit to Convert From</label><br>
+                    <input type="text" name="unit_from" id="unit_from" placeholder="e.g. c, f, k"><br><br>
+
+                    <label for="unit_to">Unit to Convert To</label><br>
+                    <input type="text" name="unit_to" id="unit_to" placeholder="e.g c, f, k"><br><br>
+
+                    <button type="submit" class="btn btn-primary" id="convert_btn">Convert</button>
+                </form>
+            {% endif %}
+
+
+            <!-- Show result -->
+             {% if show_result %}
+            <h3>Result of your calculation</h3>
+                <p class="result-text text-success mt-3">
+                    {{value}} {{unit_from}} = {{ result }} {{ unit_to }}
+                </p>
+
+
+            <button type="button" class="btn btn-primary" onclick="window.location='/?type=temp'">
+                Reset
+            </button>
+            {% endif %}
+
+            {% if error %}
+                <p class="text-danger mt-3">{{ error }}</p>
+            {% endif %}
+
+        {% endif %}
+
+        </div>
+    </div>
+</body>
+</html>
