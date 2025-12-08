@@ -1,0 +1,30 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 10px;
+    padding: 20px 20px;
+}
+
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 32px;
+}
+
+
+
+.card{
+    padding: 20px;
+    margin: 30px;
+    border-color: brown;
+}
+
+
+.admin-img{
+    margin-left: 500px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+

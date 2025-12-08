@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
+</head>
+<body>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h3>Personal blog</h3>
+    <a class="btn btn-primary" href="{{ url_for('new') }}">+ Add</a>
+</div>
+<div class="card">
+    <div class="card-body">
+        {% for a in articles %}
+        <div class="row align-items-center mb-2">
+            <div class="col-6">
+                <strong>{{ a.title }}</strong>
+            </div>
+            <div class="col-6 text-right">
+                <a class="btn text-muted" href="{{ url_for('edit',slug=a.slug) }}">Edit</a>
+                <a class="btn text-muted" href="{{ url_for('delete',slug = a.slug) }}">Delete</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+
+</body>
+</html>
