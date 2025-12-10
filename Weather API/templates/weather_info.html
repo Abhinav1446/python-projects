@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather info</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}"
+</head>
+<body>
+<div class="container">
+    <p> City Name: {{ data.name}}</p>
+    <p>Temperature: {{data.temperature}}</p>
+    <p>Humidity: {{data.humidity}}</p>
+    <p>Wind Speed: {{data.wind}}</p>
+    <p>Feels like: {{data.feels_like}}</p>
+    <p>Pressure: {{data.pressure}}</p>
+</div>
+</body>
+</html>
