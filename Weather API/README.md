@@ -180,7 +180,7 @@ Wind: 3 m/s
  Home page
 
 Enter the details: For e.g: {city_name},{country_name}
-![Home.png](screenshots/home.png)
+![Home.png](screenshots/Home.png)
 
 Weather information page :
 
@@ -218,6 +218,7 @@ some ideas:
 * Add user accounts + search history
 * Add error messages on UI instead of plain text
 * Deploy on AWS / Render / Railway
+
 
 
 
